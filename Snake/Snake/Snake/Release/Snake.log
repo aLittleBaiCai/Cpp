@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\22190\desktop\snake\snake\snake\realdisplay.h(109): warning C4554: “|”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  正在生成代码
+  125 of 128 functions (97.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Snake.vcxproj -> D:\22190\Desktop\Snake\Snake\Release\Snake.exe
